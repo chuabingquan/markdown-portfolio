@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- :+1:
+- :heart:
+- :smile:
+
+1. Go
+2. Rust
+3. Standard ML
